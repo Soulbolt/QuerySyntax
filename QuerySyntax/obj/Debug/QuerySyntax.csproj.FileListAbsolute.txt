@@ -1,0 +1,6 @@
+C:\Users\Cesar\source\repos\QuerySyntax\bin\Debug\QuerySyntax.exe.config
+C:\Users\Cesar\source\repos\QuerySyntax\bin\Debug\QuerySyntax.exe
+C:\Users\Cesar\source\repos\QuerySyntax\bin\Debug\QuerySyntax.pdb
+C:\Users\Cesar\source\repos\QuerySyntax\obj\Debug\QuerySyntax.csprojAssemblyReference.cache
+C:\Users\Cesar\source\repos\QuerySyntax\obj\Debug\QuerySyntax.exe
+C:\Users\Cesar\source\repos\QuerySyntax\obj\Debug\QuerySyntax.pdb
